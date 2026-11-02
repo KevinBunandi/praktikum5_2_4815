@@ -1,0 +1,15 @@
+C:\DPK bab 5\praktikum_2_Bab_5\bin\Debug\net10.0\praktikum_2_Bab_5.exe
+C:\DPK bab 5\praktikum_2_Bab_5\bin\Debug\net10.0\praktikum_2_Bab_5.deps.json
+C:\DPK bab 5\praktikum_2_Bab_5\bin\Debug\net10.0\praktikum_2_Bab_5.runtimeconfig.json
+C:\DPK bab 5\praktikum_2_Bab_5\bin\Debug\net10.0\praktikum_2_Bab_5.dll
+C:\DPK bab 5\praktikum_2_Bab_5\bin\Debug\net10.0\praktikum_2_Bab_5.pdb
+C:\DPK bab 5\praktikum_2_Bab_5\obj\Debug\net10.0\praktikum_2_Bab_5.GeneratedMSBuildEditorConfig.editorconfig
+C:\DPK bab 5\praktikum_2_Bab_5\obj\Debug\net10.0\praktikum_2_Bab_5.AssemblyInfoInputs.cache
+C:\DPK bab 5\praktikum_2_Bab_5\obj\Debug\net10.0\praktikum_2_Bab_5.AssemblyInfo.cs
+C:\DPK bab 5\praktikum_2_Bab_5\obj\Debug\net10.0\praktikum_2_Bab_5.csproj.CoreCompileInputs.cache
+C:\DPK bab 5\praktikum_2_Bab_5\obj\Debug\net10.0\praktikum_2_Bab_5.sourcelink.json
+C:\DPK bab 5\praktikum_2_Bab_5\obj\Debug\net10.0\praktikum_2_Bab_5.dll
+C:\DPK bab 5\praktikum_2_Bab_5\obj\Debug\net10.0\refint\praktikum_2_Bab_5.dll
+C:\DPK bab 5\praktikum_2_Bab_5\obj\Debug\net10.0\praktikum_2_Bab_5.pdb
+C:\DPK bab 5\praktikum_2_Bab_5\obj\Debug\net10.0\praktikum_2_Bab_5.genruntimeconfig.cache
+C:\DPK bab 5\praktikum_2_Bab_5\obj\Debug\net10.0\ref\praktikum_2_Bab_5.dll
